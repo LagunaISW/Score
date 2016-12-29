@@ -1,0 +1,3 @@
+rootProject.name = 'Score'
+
+include ':app'
